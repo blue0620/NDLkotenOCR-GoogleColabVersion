@@ -1,0 +1,2 @@
+# NDLkotenOCR-GoogleColabVersion
+NDL古典籍OCRのcolabデモ
